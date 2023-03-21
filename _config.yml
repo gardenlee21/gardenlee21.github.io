@@ -40,7 +40,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/20220221_이정원.jpg
 about_content: | # this will include new lines to allow paragraphs
  I am a Master student at the [Brain Reverse Engineering and Imaging Lab](http://brain.kaist.ac.kr/brain/main.php) of KAIST EE (advisor: Dae-shik Kim). 
  My research area is medical imaging and deep learning.
