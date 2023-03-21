@@ -42,6 +42,17 @@ about_content: | # this will include new lines to allow paragraphs
  My research area is medical imaging and deep learning.
  I received my B.S. in Electrical Engineering (minor: Physics) from KAIST in February 2022.
  
+
+content:
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Korea Advanced Institute of Science and Technology
+        sub_title: Master in EE
+        quote: >
+          2022.03 - Present
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
