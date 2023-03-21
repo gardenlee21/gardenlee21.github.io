@@ -1,6 +1,6 @@
 # Site
 repository: gardenlee21/
-favicon: images/favicon.ico
+# favicon: images/favicon.ico
 
 # Content configuration version
 version: 3
@@ -9,7 +9,7 @@ version: 3
 name: Jeongwon Lee
 title: Junior AI researcher
 email: gardenlee21@kaist.ac.kr
-website: www.github.com/gardenlee21/
+# website: www.github.com/gardenlee21/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -39,7 +39,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/20220221_이정원.jpg
 about_content: | # this will include new lines to allow paragraphs
  I am a Master student at the [Brain Reverse Engineering and Imaging Lab](http://brain.kaist.ac.kr/brain/main.php) of KAIST EE (advisor: Dae-shik Kim). 
