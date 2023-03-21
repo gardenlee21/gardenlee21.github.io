@@ -1,39 +1,33 @@
 # Site
-repository: sproogen/resume-theme
+repository: gardenlee21/
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jeongwon Lee
+title: Junior AI researcher
+email: gardenlee21@kaist.ac.kr
+website: www.github.com/gardenlee21/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+github_username:  gardenlee21
+linkedin_username: gardenlee21
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: google-scholar
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://scholar.google.co.kr/citations?hl=ko&user=2UHA0xYAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,8 +42,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  I am a Master student at the [Brain Reverse Engineering and Imaging Lab](http://brain.kaist.ac.kr/brain/main.php) of KAIST EE (advisor: Dae-shik Kim). I received B.S. in electrical engineering (minor: Physics) from KAIST in 2022.
+  
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
