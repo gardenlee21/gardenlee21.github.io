@@ -26,12 +26,12 @@ linkedin_username: gardenlee21
 # Additional icon links
 additional_links:
 - title: google-scholar
-  icon: fas fa-graduation-cap
+  icon: fa fa-graduation-cap
   url: https://scholar.google.co.kr/citations?hl=ko&user=2UHA0xYAAAAJ
 
 additional_links:
 - title: cv
-  icon: fas fa-memo
+  icon: fa-solid fa-memo
   url: https://scholar.google.co.kr/citations?hl=ko&user=2UHA0xYAAAAJ
 
 # About Section
