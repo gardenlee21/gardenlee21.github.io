@@ -26,17 +26,13 @@ linkedin_username: gardenlee21
 # Additional icon links
 additional_links:
 - title: google-scholar
-  icon: fas fa-globe
+  icon: fas fa-graduation-cap
   url: https://scholar.google.co.kr/citations?hl=ko&user=2UHA0xYAAAAJ
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+additional_links:
+- title: cv
+  icon: fas fa-memo
+  url: https://scholar.google.co.kr/citations?hl=ko&user=2UHA0xYAAAAJ
 
 # About Section
 about_title: About Me
